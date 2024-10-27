@@ -1,15 +1,12 @@
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+body {
+    font-family: arial, sans-serif;
+    background-color: #f0f0f0;
     text-align: center;
+    padding: 50px;
 }
 
-h1 {
-    color: #333;
-}
 
-button {
+#boton {
     padding: 10px 20px;
     background-color: #007bff;
     color: white;
@@ -17,3 +14,4 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
